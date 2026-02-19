@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+numpy
+librosa
+scipy
+nltk
+pyttsx3
+whisper
+openai-whisper
+ffmpeg-python
+pydantic
+fastdtw
+cmudict
+gtts
+matplotlib
